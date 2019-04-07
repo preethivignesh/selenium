@@ -12,7 +12,7 @@ public class Grid_SetUp {
 
 	public static void main(String[]  args) throws MalformedURLException, InterruptedException{
 
- 		String URL = "http://www.DemoQA.com";
+ 		String URL = "https://www.DemoQA.com";
  		String Node = "http://192.168.1.164:4444/wd/hub";
  		DesiredCapabilities cap = DesiredCapabilities.firefox();
 
